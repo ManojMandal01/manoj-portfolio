@@ -2,18 +2,22 @@ import React from 'react';
 import './Skills.css';
 
 const skills = [
-  'React',
-  'Node.js',
-  'JavaScript',
-  'TypeScript',
-  'HTML5 & CSS3',
-  'Tailwind CSS',
-  'MongoDB',
-  'Express.js',
-  'Redux',
-  'Git & GitHub',
-  'REST APIs',
-  'Framer Motion',
+  'Threat Detection & Analysis',
+  'Penetration Testing & Ethical Hacking',
+  'Log Analysis & Monitoring',
+  'Packet Analysis with Wireshark',
+  'Network Security & Firewalls',
+  'Python Scripting',
+  'MySQL',
+  'Burp Suite',
+  'Nmap',
+  'Metasploit',
+  'Hydra',
+  'John the Ripper',
+  'SQLMap',
+  'OWASP ZAP',
+  'XSS Testing',
+  'CVSS Scoring',
 ];
 
 const Skills = () => {

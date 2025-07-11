@@ -33,7 +33,7 @@ const Contact = () => {
     const templateParams = {
       from_name: formData.name,
       from_email: formData.email,
-      to_name: 'Somrita Das',
+      to_name: 'Manoj Mandal',
       message: formData.message,
     };
 
@@ -61,11 +61,11 @@ const Contact = () => {
           <h3>Get in Touch</h3>
           <div className="contact-info-item">
             <FiMail className="icon" />
-            <p>somritadas12@gmail.com</p>
+            <p>manojmandal0447@gmail.com</p>
           </div>
           <div className="contact-info-item">
             <FiPhone className="icon" />
-            <p>+91 9876543210</p>
+            <p>+91 9775790903</p>
           </div>
           <div className="contact-info-item">
             <FiMapPin className="icon" />

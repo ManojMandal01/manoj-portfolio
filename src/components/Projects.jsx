@@ -3,22 +3,25 @@ import './Projects.css';
 
 const projectsData = [
   {
-    title: 'Portfolio Website',
-    description: 'A personal portfolio website to showcase my skills and projects. Built with React and designed with a modern dark theme.',
-    tags: ['React', 'CSS', 'JavaScript', 'UI/UX'],
-    githubLink: '#',
+    title: 'Cybersecurity Incident Response Simulation Tool',
+    description:
+      'A simulation tool that helps organizations detect and manage incidents like malware, phishing, and insider threats. Includes real-time alerts, incident tracking, and auto-reporting via dashboard.',
+    tags: ['Python', 'Wireshark', 'MongoDB', 'OWASP'],
+    githubLink: 'https://github.com/ManojMandal01', // replace with direct repo if available
   },
   {
-    title: 'E-commerce Platform',
-    description: 'A full-featured e-commerce platform with product listings, a shopping cart, and a checkout process. MERN stack.',
-    tags: ['React', 'Node.js', 'Express', 'MongoDB'],
-    githubLink: '#',
+    title: 'VAPT on DVWA',
+    description:
+      'Performed complete Vulnerability Assessment and Penetration Testing (VAPT) on DVWA using tools like Burp Suite and SQLMap. Report includes vulnerabilities, CVSS scores, and mitigation steps.',
+    tags: ['Burp Suite', 'Nmap', 'SQLMap', 'OWASP ZAP'],
+    githubLink: 'https://github.com/ManojMandal01', // replace with direct repo if available
   },
   {
-    title: 'Task Management App',
-    description: 'A simple and intuitive task management application to help users organize their daily tasks and improve productivity.',
-    tags: ['React', 'Firebase', 'Material-UI'],
-    githubLink: '#',
+    title: 'Web Application Security Testing – TestPHP',
+    description:
+      'Manually and automatically tested a vulnerable PHP site for real-world attack vectors like XSS and insecure login. Followed OWASP Top 10 and used tools like Burp Suite for documentation.',
+    tags: ['Burp Suite', 'OWASP', 'XSS', 'TestPHP.vulnweb.com'],
+    githubLink: 'https://github.com/ManojMandal01', // replace with direct repo if available
   },
 ];
 

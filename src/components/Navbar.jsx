@@ -26,7 +26,7 @@ const NavigationBar = () => {
     <Navbar expand="lg" fixed="top" className={`navbar ${scrolled ? 'scrolled' : ''}`}>
       <Container>
         <Navbar.Brand as={Link} to="hero" spy={true} smooth={true} offset={-70} duration={500} style={{cursor: 'pointer'}} className="navbar-brand">
-          Somrita Das
+          Manoj Mandal
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

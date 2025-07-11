@@ -5,7 +5,7 @@
 
 .contact .section-title,
 .contact h3 {
-  color: #1F2937; /* Dark Text */
+  color: #080d14; /* Dark Text */
 }
 
 .contact-content {
@@ -40,9 +40,9 @@
 .form-group textarea {
   width: 100%;
   padding: 15px;
-  border: 1px solid #374151;
+  border: 1px solid #556e92;
   border-radius: 5px;
-  background-color: #0D1117;
+  background-color: #000000;
   color: var(--primary-text-color);
   font-family: var(--font-primary);
   transition: border-color 0.3s ease;
